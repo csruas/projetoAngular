@@ -13,10 +13,15 @@
             <div class="result-display" *ngIf="resultado">
                 <p>Seu resultado está abaixo</p>
             </div>
+
             @if(resultado){
-              <div class="result-display">
-                 <p>Resultado : <span id="result">{{resultado}}</span></p>
-              </div>                
+                <div class="result-display">
+                    <p>Resultado : <span id="result">{{resultado}}</span></p>
+                </div>                
+            }@else{
+                <div class="result-display">
+                <p>Seu resultado aparecerá aqui.</p>
+            </div>
             }
         </form>
     </div>

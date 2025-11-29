@@ -2,6 +2,24 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 
+Vamos trabalhar com Material Design e TailwindCSS para criar interfaces incríveis, consumir APIs REST para integrar dados e configurar Login Social para autenticação com Google e outras plataformas. Além disso, você vai aprender sobre componentes, serviços, roteamento, formulários reativos, RxJS, State Management, além de construir uma arquitetura de Microfront-ends utilizando Module-Federation em integração com o Angular e muito mais.
+
+Componentes e Diretivas – Criação de interfaces reutilizáveis e dinâmicas
+
+Data Binding – Sincronização de dados entre modelo e visualização
+
+Roteamento e Lazy Loading – Navegação otimizada e carregamento sob demanda
+
+Serviços e Injeção de Dependências – Arquitetura escalável e modular
+
+Formulários Reativos e Template-Driven – Validação eficiente e flexível
+
+RxJS e Programação Reativa – Manipulação avançada de fluxos assíncronos
+
+State Management – Gerenciamento eficiente do estado da aplicação
+
+Micro-Frontends - Desenvolvimento de arquitetura distribuida utilizando Module-federation
+
 ## Development server
 
 To start a local development server, run:
